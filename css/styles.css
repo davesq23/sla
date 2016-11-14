@@ -24,6 +24,7 @@ body {
     justify-content: center;
     align-items: center;
     padding-top: -3%;
+    background-color : transparent;
 }
 
 .right {
@@ -31,6 +32,7 @@ body {
     height: 100%;
     display: flex;
     align-items: center;
+    background-color : transparent;
 }
 
 .logo {
@@ -44,6 +46,7 @@ body {
 #logo {
     width: 80%;
     height: auto;
+    background-color : transparent;
 }
 
 .content {
@@ -56,6 +59,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color : transparent;
 }
 
 #facebook {
